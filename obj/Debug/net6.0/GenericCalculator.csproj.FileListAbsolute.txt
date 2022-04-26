@@ -1,0 +1,15 @@
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\bin\Debug\net6.0\GenericCalculator.exe
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\bin\Debug\net6.0\GenericCalculator.deps.json
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\bin\Debug\net6.0\GenericCalculator.runtimeconfig.json
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\bin\Debug\net6.0\GenericCalculator.dll
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\bin\Debug\net6.0\GenericCalculator.pdb
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.csproj.AssemblyReference.cache
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.AssemblyInfoInputs.cache
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.AssemblyInfo.cs
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.dll
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\refint\GenericCalculator.dll
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.pdb
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\GenericCalculator.genruntimeconfig.cache
+C:\Users\Akhtar Gul\source\repos\GenericCalculator\GenericCalculator\obj\Debug\net6.0\ref\GenericCalculator.dll
